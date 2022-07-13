@@ -20,23 +20,23 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">Tech Spec</h3>
-Techs that I've used 
+<h4 align="center">Techs that I've used</h4> 
 
 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript"> &nbsp
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=kotlin"> &nbsp
-<img src="https://img.shields.io/badge/Android_Kotlin-3DDC84?style=for-the-badge&logoColor=white&logo=android"> &nbsp
-<img src="https://img.shields.io/badge/SpringBoot_Kotlin-6DB33F?style=for-the-badge&logoColor=white&logo=springboot"> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white&logo=node.js"> &nbsp
-<img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logoColor=white&logo=node.js"> &nbsp
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=kotlin">
+<img src="https://img.shields.io/badge/Android_Kotlin-3DDC84?style=for-the-badge&logoColor=white&logo=android">
+<img src="https://img.shields.io/badge/SpringBoot_Kotlin-6DB33F?style=for-the-badge&logoColor=white&logo=springboot">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white&logo=node.js">
+<img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logoColor=white&logo=node.js">
 
 javascript nodejs express java kotlin android springboot 
 
-Techs that I'm Studing
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=kotlin"> &nbsp
-<img src="https://img.shields.io/badge/Android_MVVM-3DDC84?style=for-the-badge&logoColor=white&logo=android"> &nbsp
-<img src="https://img.shields.io/badge/SpringBoot_Kotlin-6DB33F?style=for-the-badge&logoColor=white&logo=springboot"> &nbsp
-<img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logoColor=white&logo=google cloud"> &nbsp
+ <h4 align="center">Techs that I'm Studing</h4>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=kotlin">
+<img src="https://img.shields.io/badge/Android_MVVM-3DDC84?style=for-the-badge&logoColor=white&logo=android">
+<img src="https://img.shields.io/badge/SpringBoot_Kotlin-6DB33F?style=for-the-badge&logoColor=white&logo=springboot">
+<img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logoColor=white&logo=google cloud">
 
 Kotlin, Kotlin-SpringBoot, Android-MVVM
 
