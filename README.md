@@ -33,16 +33,18 @@ Here are some ideas to get you started:
 javascript nodejs express java kotlin android springboot 
 
  <h4 align="center">Techs that I'm Studing</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=kotlin">
-<img src="https://img.shields.io/badge/Android_MVVM-3DDC84?style=for-the-badge&logoColor=white&logo=android">
-<img src="https://img.shields.io/badge/SpringBoot_Kotlin-6DB33F?style=for-the-badge&logoColor=white&logo=springboot">
-<img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logoColor=white&logo=google cloud">
-</p>
 <div>
+<p align="center><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=kotlin"></p>
 <p align="center">Kotlin</p>
+<p align="center"><img src="https://img.shields.io/badge/SpringBoot_Kotlin-6DB33F?style=for-the-badge&logoColor=white&logo=springboot"></p>
 <p align="center">Kotlin-SpringBoot</p>
+<p align="center"><img src="https://img.shields.io/badge/Android_MVVM-3DDC84?style=for-the-badge&logoColor=white&logo=android"></p>
 <p align="center">Android-MVVM</p>
+                 
+<p align="center"><img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logoColor=white&logo=google cloud"></p>
+<p align="center">Google Cloud Platform</p>
+                 
+               
 </div>
 
 <h3 align="center">Contact</h3>
