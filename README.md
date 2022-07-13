@@ -39,7 +39,11 @@ javascript nodejs express java kotlin android springboot
 <img src="https://img.shields.io/badge/SpringBoot_Kotlin-6DB33F?style=for-the-badge&logoColor=white&logo=springboot">
 <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logoColor=white&logo=google cloud">
 </p>
-Kotlin, Kotlin-SpringBoot, Android-MVVM
+<div>
+<p align="center">Kotlin</p>
+<p align="center">Kotlin-SpringBoot</p>
+<p align="center">Android-MVVM</p>
+</div>
 
 <h3 align="center">Contact</h3>
 <p align="center"><a href="mailto:ldh123mwe@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=gmail"></a></p>
