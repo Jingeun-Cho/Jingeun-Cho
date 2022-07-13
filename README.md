@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 <p align="center"><a href="mailto:ldh123mwe@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=gmail"></a></p>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jingeun-Cho)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
