@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Jingeun%20Cho&fontSize=80&fontColor=ffffff)
-</p>
 
 
 
