@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white&logo=node.js">
 <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logoColor=white&logo=node.js">
 </p>
-javascript nodejs express java kotlin android springboot 
 
- <h4 align="center">Techs that I'm Studing</h4>
+<h4 align="center">Techs that I'm Studing</h4>
 <p align="center">
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=kotlin">
  <img src="https://img.shields.io/badge/SpringBoot_Kotlin-6DB33F?style=for-the-badge&logoColor=white&logo=springboot">
