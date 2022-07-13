@@ -42,7 +42,7 @@ javascript nodejs express java kotlin android springboot
 Kotlin, Kotlin-SpringBoot, Android-MVVM
 
 <h3 align="center">Contact</h3>
-<a href="mailto:ldh123mwe@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=gmail"></a>
+<a align="center" href="mailto:ldh123mwe@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=gmail"></a>
 
 
 
